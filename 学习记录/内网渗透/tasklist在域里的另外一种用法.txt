@@ -1,3 +1,0 @@
-net view #查看共享的机子
-net use xxx \\xxx\c$ #尝试连上IPC$
-tasklist /v /s <机子名称> #连接上后使用tasklist列出对面机子的进程
